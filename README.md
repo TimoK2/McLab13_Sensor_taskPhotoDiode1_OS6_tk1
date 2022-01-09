@@ -5,4 +5,5 @@ amplifier circuit feedback resistor value and capasitor value define the
 gain and the time constant. 
 The purpose is to make students to understand the development process. 
 
+### License and contributions
 The software is provided under Apache-2.0 license. 
